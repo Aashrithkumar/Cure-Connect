@@ -4,7 +4,7 @@
 
 # CureConnect
 
-CureConnect is a healthcare appointment booking platform that connects patients with doctors. It allows users to view doctor profiles, check their availability, and book appointments in real-time.
+CureConnect is a healthcare appointment booking platform that connects patients with doctors. It allows users to view doctor profiles, check their availability, and book appointments in real-time
 
 ## Features
 
